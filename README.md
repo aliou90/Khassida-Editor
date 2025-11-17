@@ -102,14 +102,12 @@ assets/images/screenshots/
 ```
 
 Exemples :
-| Aperçu | Fichier | Description |
-| --- | --- | --- |
-| ![Screenshot 1](assets/images/screenshots/screenshot1.png) | screenshot1.png | Écran principal — visionneuse et navigation |
-| ![Screenshot 2](assets/images/screenshots/screenshot2.png) | screenshot2.png | Mode édition — inline editing et coloration des vers |
-| ![Screenshot 3](assets/images/screenshots/screenshot3.png) | screenshot3.png | Sélecteur de polices arabes et options typographiques |
-| ![Screenshot 4](assets/images/screenshots/screenshot4.png) | screenshot4.png | Gestion des catégories et affichage par thème |
-| ![Screenshot 5](assets/images/screenshots/screenshot5.png) | screenshot5.png | Page de profil utilisateur et préférences |
-| ![Screenshot 6](assets/images/screenshots/screenshot6.png) | screenshot6.png | Options d'export/impression et aperçu responsive |
+- ![Aperçu 1](assets/images/screenshots/screenshot1.png) Aperçu 1 — Écran principal — visionneuse et navigation
+- ![Aperçu 2](assets/images/screenshots/screenshot2.png) Aperçu 2 — Mode édition : inline editing et coloration des vers
+- ![Aperçu 3](assets/images/screenshots/screenshot3.png) Aperçu 3 — Sélecteur de polices arabes et options typographiques
+- ![Aperçu 4](assets/images/screenshots/screenshot4.png) Aperçu 4 — Gestion des catégories et affichage par thème
+- ![Aperçu 5](assets/images/screenshots/screenshot5.png) Aperçu 5 — Page de profil utilisateur et préférences
+- ![Aperçu 6](assets/images/screenshots/screenshot6.png) Aperçu 6 — Options d'export/impression et aperçu responsive
 
 ---
 
