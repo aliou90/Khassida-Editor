@@ -1,0 +1,16 @@
+{
+    "id": 4,
+    "name": "Utilisateur",
+    "email": "user@mouride.com",
+    "password": "$2y$10$MALsXl3DQbX.0.Qy4axoDO2oA\/Yk8K7tLJKzRBGWO2OaQ04sipCWK",
+    "country": null,
+    "region": null,
+    "phone": null,
+    "profile_picture": null,
+    "state": 1,
+    "inscription_date": null,
+    "activation_code": null,
+    "is_super_admin": 0,
+    "is_hight_admin": 0,
+    "is_admin": 0
+}

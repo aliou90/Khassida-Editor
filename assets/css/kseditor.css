@@ -1,0 +1,117 @@
+/*--------------------------------------------------------------------------------
+FONTS ARABES PERSONNALISÉS
+----------------------------------------------------------------------------------*/
+/* FONT */
+@font-face {
+   font-family: 'macca';
+   src: url('../fonts/AmiriQuran-Regular.ttf');
+ }
+ @font-face {
+   font-family: 'madina';
+   src: url('../fonts/Lateef-Regular.ttf');
+ }
+ @font-face {
+   font-family: 'touba';
+   src: url('../fonts/Neirizi.ttf');
+ }
+ @font-face {
+   font-family: 'ndiarem';
+   src: url('../fonts/Neirizi.ttf');
+ }
+
+body {
+   font-family: 'macca';
+   font-size: 16px;
+}
+
+/*--------------------------------------------------------------------------------
+STYLE PERSONNALISÉ DE L'APPLICATION KsEditor.js
+----------------------------------------------------------------------------------*/
+/* Appliquer les styles au conteneur de l'éditeur */
+#ks-editor {
+    font-family: 'macca';
+    color: rgb(0, 0, 0); /*Couleur du texte */
+    text-shadow: 2px 2px 4px rgb(210, 215, 230); /* Ombre pour le texte */
+}
+
+#ks-screen{
+    color: rgb(0, 0, 0); /*Couleur du texte */
+    text-shadow: 2px 2px 4px rgba(72, 90, 148, 0.452); /* Ombre pour le texte */
+    background-image: url('../images/bg379.gif');
+}
+
+/* Appliquer les styles à la classe .ks-line */
+.ks-line {
+   padding: 10px;
+   margin: 5px;
+   background-color: #f9f9f9;
+   border: 1px solid #ccc;
+}
+
+.ks-line, .ks-column {
+   user-select: text;
+   -webkit-user-select: text;
+   -moz-user-select: text;
+   -ms-user-select: text;
+}
+
+/* Appliquer les styles à la classe .ks-ui-state-highlight */
+.ks-ui-state-highlight {
+   height: 50px;
+   background: rgb(253, 206, 52);
+   border: 1px dashed #ccc;
+}
+
+
+/* Gérer les alignements de texte dans les zones éditables */
+.ks-editable[dir="rtl"] {
+   text-align: right;
+}
+
+.ks-editable[dir="ltr"] {
+   text-align: left;
+}
+
+.ks-text-right {
+   text-align: right;
+}
+
+.ks-text-left {
+   text-align: left;
+}
+
+/* Style de succès */
+.ks-message-success {
+   background-color: #d4edda; /* Vert clair */
+   color: #155724; /* Texte vert foncé */
+   border: 1px solid #c3e6cb; /* Bordure verte */
+   border-radius: 5px;
+   padding: 10px;
+   width: 100%;
+   text-align: center;
+   margin: 10px 0;
+}
+
+/* Style d'échec */
+.ks-message-fail {
+   background-color: #f8d7da; /* Rouge clair */
+   color: #721c24; /* Texte rouge foncé */
+   border: 1px solid #f5c6cb; /* Bordure rouge */
+   border-radius: 5px;
+   padding: 10px;
+   width: 100%;
+   text-align: center;
+   margin: 10px 0;
+}
+
+/* Style d'information */
+.ks-message-info {
+   background-color: #cce5ff; /* Bleu clair */
+   color: #004085; /* Texte bleu foncé */
+   border: 1px solid #b8daff; /* Bordure bleue */
+   border-radius: 5px;
+   padding: 10px;
+   width: 100%;
+   text-align: right;
+   margin: 5px 0;
+}

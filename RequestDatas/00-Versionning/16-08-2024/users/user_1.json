@@ -1,0 +1,16 @@
+{
+    "id": 1,
+    "name": "Super Administrateur",
+    "email": "super.admin@mouride.com",
+    "password": "$2y$10$bC\/i04u\/QIMHj8d6KB6YpOJYHu32BYUXos8zcHxY.x7XX9ZQe51M.",
+    "country": null,
+    "region": null,
+    "phone": null,
+    "profile_picture": null,
+    "state": 1,
+    "inscription_date": null,
+    "activation_code": null,
+    "is_super_admin": 1,
+    "is_hight_admin": 1,
+    "is_admin": 1
+}

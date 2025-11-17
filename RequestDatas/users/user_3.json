@@ -1,0 +1,16 @@
+{
+    "id": 3,
+    "name": "\u00c9diteur (\u00c9crivain)",
+    "email": "admin@mouride.com",
+    "password": "$2y$10$Lv.A\/Wo6saucC76shY2AseAssVGRUJGLSzL.H6htGCXxFj40MfBA.",
+    "country": null,
+    "region": null,
+    "phone": null,
+    "profile_picture": null,
+    "state": 1,
+    "inscription_date": null,
+    "activation_code": null,
+    "is_super_admin": 0,
+    "is_hight_admin": 0,
+    "is_admin": 1
+}

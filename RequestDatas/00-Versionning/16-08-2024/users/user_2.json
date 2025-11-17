@@ -1,0 +1,16 @@
+{
+    "id": 2,
+    "name": "Correcteur (Superviseur)",
+    "email": "hight.admin@mouride.com",
+    "password": "$2y$10$2m0NnvasiJ06ek7LkIMZ3u9j8YwlaiYrVPvk.0sDZH5EWTAs7RE0S",
+    "country": null,
+    "region": null,
+    "phone": null,
+    "profile_picture": null,
+    "state": 1,
+    "inscription_date": null,
+    "activation_code": null,
+    "is_super_admin": 0,
+    "is_hight_admin": 1,
+    "is_admin": 1
+}
