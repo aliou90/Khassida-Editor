@@ -102,14 +102,11 @@ assets/images/screenshots/
 ```
 
 Exemples :
-| ![Aperçu 1](assets/images/screenshots/screenshot1.png) |
-| ![Aperçu 2](assets/images/screenshots/screenshot2.png) |
-|--------------------------------------------------------|
-| ![Aperçu 3](assets/images/screenshots/screenshot3.png) |
-| ![Aperçu 4](assets/images/screenshots/screenshot4.png) |
-|--------------------------------------------------------|
-| ![Aperçu 5](assets/images/screenshots/screenshot5.png) |
-| ![Aperçu 6](assets/images/screenshots/screenshot6.png) |
+| ![Aperçu 1](assets/images/screenshots/screenshot1.png) | ![Aperçu 2](assets/images/screenshots/screenshot2.png) |
+|----------------------------------------------------------|----------------------------------------------------------|
+| ![Aperçu 3](assets/images/screenshots/screenshot3.png) | ![Aperçu 4](assets/images/screenshots/screenshot4.png) |
+|----------------------------------------------------------|----------------------------------------------------------|
+| ![Aperçu 5](assets/images/screenshots/screenshot5.png) | ![Aperçu 6](assets/images/screenshots/screenshot6.png) |
 
 ---
 
