@@ -102,13 +102,13 @@ assets/images/screenshots/
 ```
 
 Exemples :
-| ![Aperçu 1](assets/images/screenshots/screenshot1.png) | Aperçu 1 — Écran principal — visionneuse et navigation |
+| ![Aperçu 1](assets/images/screenshots/screenshot1.png) |
 |--------------------------------------------------------|-------------------------------------------------------|
-| ![Aperçu 2](assets/images/screenshots/screenshot2.png) | Aperçu 2 — Mode édition : inline editing et coloration des vers |
-| ![Aperçu 3](assets/images/screenshots/screenshot3.png) | Aperçu 3 — Sélecteur de polices arabes et options typographiques |
-| ![Aperçu 4](assets/images/screenshots/screenshot4.png) | Aperçu 4 — Gestion des catégories et affichage par thème |
-| ![Aperçu 5](assets/images/screenshots/screenshot5.png) | Aperçu 5 — Page de profil utilisateur et préférences |
-| ![Aperçu 6](assets/images/screenshots/screenshot6.png) | Aperçu 6 — Options d'export/impression et aperçu responsive |
+| ![Aperçu 2](assets/images/screenshots/screenshot2.png) |
+| ![Aperçu 3](assets/images/screenshots/screenshot3.png) |
+| ![Aperçu 4](assets/images/screenshots/screenshot4.png) |
+| ![Aperçu 5](assets/images/screenshots/screenshot5.png) |
+| ![Aperçu 6](assets/images/screenshots/screenshot6.png) |
 
 ---
 
